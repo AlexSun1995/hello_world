@@ -3,5 +3,5 @@
 
 ------- this is a test for rebase
 +++++++++++++++ added by branch new1 ++++++++++++
-this line added by master... tes conflict... 
+清除冲突 [master]
 ------- end 
